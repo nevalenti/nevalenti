@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Vali, a Full-Stack Software Developer.
+I'm Vali, a Software Developer based in Brașov, Romania.
 
 ## Languages and Technologies
 
