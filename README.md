@@ -6,13 +6,13 @@ I'm Vali, a Full-Stack Software Developer.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,js,ts,html,css"/>
+    <img src="https://skillicons.dev/icons?i=py,cs,js,ts,html,css"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi"/>
+    <img src="https://skillicons.dev/icons?i=fastapi,dotnet,nodejs"/>
   </a>
 </p>
 
