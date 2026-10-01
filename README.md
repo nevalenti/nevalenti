@@ -36,6 +36,6 @@ I'm Vali, a Full-Stack Software Developer.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,jenkins"/>
+    <img src="https://skillicons.dev/icons?i=git,githubactions"/>
   </a>
 </p>
