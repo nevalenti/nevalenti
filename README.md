@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Vali.
+I'm Valentin.
 
 ## Languages and Technologies
 
