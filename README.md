@@ -6,13 +6,13 @@ I'm Vali.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,js,ts,html,css"/>
+    <img src="https://skillicons.dev/icons?i=cs,py,js,ts,html,css"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,dotnet,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs"/>
   </a>
 </p>
 
